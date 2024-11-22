@@ -9,7 +9,7 @@
 6. Ejecuar el Runner
 
 
-##Historia de usuario 
+## Historia de usuario 
 
 Para visualizar la historia de usuario creada dirigirse al siguiente link 
 
